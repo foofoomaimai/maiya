@@ -1,0 +1,14 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>It's ya girl</title>
+ </head>
+ <body>
+	 <h1>Who even is Maiya?</h1>
+	 <img src="file:///Users/maiya/Desktop/IMG_3328%202.jpg">
+	<p>Hey. I'm a <b>paragraph</b> element. Cool huh?</p>
+	<p>My name is:<br>
+	Kitty Cat</p>
+	<a href="https://open.spotify.com/playlist/3DzNJSHTBB7jHAgZFZARRb?si=QDT_3W7IT-C8Zz1zAndNzw"target="_blank" title="vroooom" >Get in me car</a>
+</body>
+</html>
